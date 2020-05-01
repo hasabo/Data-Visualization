@@ -1,4 +1,4 @@
-# Data-Visualization-
+# Data-Visualization
 Visualizing the link between education and the basic earnings
 
 Url for the article:
